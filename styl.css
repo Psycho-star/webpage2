@@ -1,0 +1,23 @@
+    body {
+        background-color: azure;
+        
+    }
+    h1 {
+        color: #66BFBF;
+    }
+    h3 {
+        color: red;
+    }
+    .head{
+        text-align: center;
+        font-size: 20px;
+        color: crimson;
+        font-style:oblique;
+    }
+    hr {
+        border-color: blue;
+        border-style: none;
+        border-top-style: dotted;
+        border-width: 10px;
+        width: 20%;
+    }
